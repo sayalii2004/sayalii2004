@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Sayali Shete</h2>
 
 <p align="center">
-🌱 Learning | ☁️ Cloud Enthusiast | 💻 Web Developer | 📊 Aspiring Data Engineer
+🌱 Learning | ☁️ Cloud Enthusiast | 💻 Web Developer
 </p>
 
 ---
@@ -20,4 +20,4 @@ Languages     : Java, JavaScript, SQL
 Cloud & Tools : AWS (S3, EC2), Git, Postman  
 Web Dev       : HTML, CSS, JavaScript, React.js, Node.js  
 Database      : MySQL
-Other Tools   : Power BI, VS Code, GitHub, Canva, Excel
+Other Tools   : Power BI, VS Code, GitHub
