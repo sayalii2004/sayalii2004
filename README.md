@@ -47,4 +47,11 @@
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sayali212004&theme=dark&hide_border=true)
+---
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sayali212004&theme=dark&hide_border=false)
+
+---
+
