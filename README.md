@@ -44,8 +44,3 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayali212004&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayali212004&layout=compact&theme=radical)
 
----
-
-### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=sayali212004&theme=radical&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
